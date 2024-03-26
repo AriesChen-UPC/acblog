@@ -2,6 +2,7 @@
 
 title: "Dictionary Data Type in MATLAB"
 description: ""
+posts: ["MATLAB"]
 tags: [
     "MATLAB",
     "Program",
