@@ -1,0 +1,6 @@
+[submodule "arieschen-blog/themes/PaperMod"]
+	path = arieschen-blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "arieschen-blog/themes/DoIt"]
+	path = arieschen-blog/themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
