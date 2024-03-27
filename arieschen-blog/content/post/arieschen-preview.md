@@ -3,7 +3,6 @@ title: "Aries Chen"
 date: 2024-03-26T09:00:00+08:00
 lastmod: 2024-03-26T09:05:00+08:00
 draft: false
-posts: ["info"]
 tags: ["info", "Preview", “AI”, "Marathon", "Geophysics"]
 categories: ["info", "docs"]
 author: "AriesChen"

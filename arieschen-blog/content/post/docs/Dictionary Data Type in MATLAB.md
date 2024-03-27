@@ -2,20 +2,19 @@
 
 title: "Dictionary Data Type in MATLAB"
 description: ""
-posts: ["MATLAB"]
 tags: [
     "MATLAB",
     "Program",
     "Python",
     "Contribute",
 ]
-date: "2022-10-15"
+date: "2022-09-15"
 categories: [
     "docs",
     "Development",
     "index",
 ]
-
+author: "AriesChen"
 menu:
   main:
     parent: "docs"
