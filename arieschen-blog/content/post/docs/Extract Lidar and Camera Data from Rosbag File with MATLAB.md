@@ -18,7 +18,7 @@ author: "AriesChen"
 menu:
   main:
     parent: "docs"
-    weight: 2
+    weight: 3
 
 ---
 

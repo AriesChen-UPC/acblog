@@ -12,13 +12,12 @@ date: "2022-09-15"
 categories: [
     "docs",
     "Development",
-    "index",
 ]
 author: "AriesChen"
 menu:
   main:
     parent: "docs"
-    weight: 2
+    weight: 3
 
 ---
 
