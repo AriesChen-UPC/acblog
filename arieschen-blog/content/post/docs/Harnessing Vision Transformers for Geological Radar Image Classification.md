@@ -23,7 +23,7 @@ menu:
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*eNVDC5Yz-2S4jLRV3lINNw.png)
 
-Geological exploration has long been a domain of meticulous study and analysis, where the subsurface secrets of the Earth are decoded from images that are as complex as they are enigmatic. One of the most powerful tools in this quest has been Ground Penetrating Radar (GPR), a technology that peers into the depths of the geological layers without a single shovel strike. But the interpretation of GPR data has remained a highly specialized skill — until now. Enter the Vision Transformer (ViT), a machine learning model that’s revolutionizing how we understand the hidden structures of the Earth.
+Geological exploration has long been a domain of meticulous study and analysis, where the subsurface secrets of the Earth are decoded from images that are as complex as they are enigmatic. One of the most powerful tools in this quest has been Ground Penetrating Radar (GPR), a technology that peers into the depths of the geological layers without a single shovel strike. But the interpretation of GPR data has remained a highly specialized skill — until now. Enter the <u>Vision Transformer (ViT)</u>, a machine learning model that’s revolutionizing how we understand the hidden structures of the Earth.
 
 **The Synergy of GPR and ViT: A New Era of Subsurface Imaging**
 

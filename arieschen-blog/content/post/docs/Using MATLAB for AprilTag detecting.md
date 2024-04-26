@@ -25,11 +25,11 @@ menu:
 
 Image from University of Michigan
 
-AprilTag is a visual fiducial system popular in robotics research. When we do some work related to ROS or something needed to be labeled, there is AprilTag. Here we use MATLAB to do some research about AprilTag.
+<u>AprilTag is a visual fiducial system popular in robotics research.</u> When we do some work related to ROS or something needed to be labeled, there is AprilTag. Here we use MATLAB to do some research about AprilTag.
 
 ## Create AprilTag
 
-Here we use OpenMV to create AprilTags in the TAG36H11 family. We create six tag IDs from family 0 to family 5 for a test.
+Here we use OpenMV to create AprilTags in the **TAG36H11** family. We create six tag IDs from family 0 to family 5 for a test.
 
 Here is an example: TAG36H11 0
 

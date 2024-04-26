@@ -35,7 +35,7 @@ As we all know, MATLAB provides a lot of toolboxes like Statistics and Machine L
 
 ## Acquisition of data
 
-The MATLAB Mobile app provides a function named Sensors, including Acceleration, Magnetic Field, Orientation, Angular, and Position. You can select the most interesting data. Here I use the Position selection. The parameters are as below：
+<u>The MATLAB Mobile app provides a function named Sensors, including Acceleration, Magnetic Field, Orientation, Angular, and Position.</u> You can select the most interesting data. Here I use the Position selection. The parameters are as below：
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*YbS_HxaEpOsAR9AUCcZwzg.png)
 
