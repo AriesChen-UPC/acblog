@@ -10,8 +10,7 @@ tags: [
 ]
 date: "2025-01-16"
 categories: [
-    "docs",
-    "Development",
+    "Natural Language Processing (NLP) & Large Language Models (LLM)",
 ]
 author: "AriesChen"
 menu:

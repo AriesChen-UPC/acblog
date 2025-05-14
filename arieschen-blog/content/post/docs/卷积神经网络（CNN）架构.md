@@ -6,8 +6,7 @@ tags: [
 ]
 date: "2022-10-22"
 categories: [
-    "docs",
-    "Development",
+    "Deep Learning",
 ]
 author: "AriesChen"
 menu:

@@ -8,9 +8,7 @@ tags: [
 ]
 date: "2024-04-25"
 categories: [
-    "docs",
-    "Development",
-    "index",
+    "AI Applications",
 ]
 author: "AriesChen"
 menu:

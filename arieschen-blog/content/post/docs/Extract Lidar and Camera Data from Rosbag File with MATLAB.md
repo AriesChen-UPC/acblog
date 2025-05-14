@@ -10,9 +10,7 @@ tags: [
 ]
 date: "2022-10-01"
 categories: [
-    "docs",
-    "Development",
-    "index",
+    "Robotics & Perception",
 ]
 author: "AriesChen"
 menu:

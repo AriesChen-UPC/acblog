@@ -9,8 +9,7 @@ tags: [
 ]
 date: "2023-06-15"
 categories: [
-    "docs",
-    "Development",
+    "Computer Vision & Image Processing",
 ]
 author: "AriesChen"
 menu:

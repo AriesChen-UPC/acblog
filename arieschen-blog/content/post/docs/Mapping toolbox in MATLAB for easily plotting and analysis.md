@@ -8,8 +8,7 @@ tags: [
 ]
 date: "2022-06-01"
 categories: [
-    "docs",
-    "Development",
+    "Software & Tools",
 ]
 author: "AriesChen"
 menu:
