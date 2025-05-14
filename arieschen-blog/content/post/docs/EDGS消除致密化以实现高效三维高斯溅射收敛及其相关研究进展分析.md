@@ -8,7 +8,8 @@ tags: [
 ]
 date: "2025-04-30"
 categories: [
-    "Computer Vision & Image Processing",
+    "Computer Vision",
+    "Image Processing",
 ]
 author: "AriesChen"
 menu:

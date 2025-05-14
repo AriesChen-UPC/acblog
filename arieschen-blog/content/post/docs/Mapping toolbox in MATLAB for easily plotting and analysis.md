@@ -8,7 +8,7 @@ tags: [
 ]
 date: "2022-06-01"
 categories: [
-    "Software & Tools",
+    "Software",
 ]
 author: "AriesChen"
 menu:

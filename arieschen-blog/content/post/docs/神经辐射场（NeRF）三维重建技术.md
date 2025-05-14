@@ -7,7 +7,8 @@ tags: [
 ]
 date: "2023-09-06"
 categories: [
-    "Computer Vision & Image Processing",
+    "Computer Vision",
+    "Image Processing",
 ]
 author: "AriesChen"
 menu:

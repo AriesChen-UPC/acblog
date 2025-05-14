@@ -8,7 +8,9 @@ tags: [
 ]
 date: "2022-07-01"
 categories: [
-    "Robotics & Perception",
+    "Robotics",
+    "Perception",
+    "Software"
 ]
 author: "AriesChen"
 menu:

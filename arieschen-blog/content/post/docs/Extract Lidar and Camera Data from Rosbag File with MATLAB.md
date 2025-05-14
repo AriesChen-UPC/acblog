@@ -10,7 +10,8 @@ tags: [
 ]
 date: "2022-10-01"
 categories: [
-    "Robotics & Perception",
+    "Robotics",
+    "Perception",
 ]
 author: "AriesChen"
 menu:
